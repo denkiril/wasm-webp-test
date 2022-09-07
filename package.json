@@ -1,0 +1,13 @@
+{
+  "name": "wasm-webp-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Denis Kirilyuk",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
